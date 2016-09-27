@@ -2,6 +2,10 @@
 
 Chip8 emulator featuring CRT screen emulation.
 
+![Screenshot](screen.png)
+
+See also [chipers][] for a reimplementation in Rust and OpenGL.
+
 # Acknowledgements
 
 - Cowgod's [technical reference][chip-ref] was invaluable.
@@ -14,3 +18,4 @@ Chip8 emulator featuring CRT screen emulation.
 [Ochip8]: http://ochip8.com/
 [chip-ref]: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
 [aaa]: http://members.chello.nl/~s.morsink/
+[chipers]: https://github.com/fmdkdd/chipers
